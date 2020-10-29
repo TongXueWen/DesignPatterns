@@ -1,5 +1,7 @@
 package com.wen.proxy.pattern;
 
+import com.wen.proxy.pattern.interfaces.Image;
+
 /**
  * 当被请求时，使用 ProxyImage 来获取 RealImage 类的对象。
  */

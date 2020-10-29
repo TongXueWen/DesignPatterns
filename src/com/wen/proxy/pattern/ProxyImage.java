@@ -1,5 +1,7 @@
 package com.wen.proxy.pattern;
 
+import com.wen.proxy.pattern.interfaces.Image;
+
 public class ProxyImage implements Image {
 
     private Realmage realmage;
